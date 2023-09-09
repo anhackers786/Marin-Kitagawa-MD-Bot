@@ -3,17 +3,17 @@ const chalk = require("chalk")
 
 global.available = true
 global.autoReadGc = true
-global.autoReadAll = false
+global.autoReadAll = true
 global.antitags = true
 
 
-global.Owner = ['918373017400']
-global.OwnerNumber = ['918373017400']
+global.Owner = ['923356611872']
+global.OwnerNumber = ['923356611872']
 global.ownertag = ['918373017400']
-global.BotName = "𝑀𝒶𝓇𝒾𝓃-ᴋɪᴛᴀɢᴀᴡᴀ"
+global.BotName = "AN Hacker,s"
 global.packname = "𝑀𝒶𝓇𝒾𝓃-ʙᴏᴛ"
 global.author = "By: ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
-global.OwnerName = "ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
+global.OwnerName = "Awais Qadir💫🌙✨"
 global.BotSourceCode = "https://github.com/Chey-san/Marin-Kitagawa-MD-Bot"
 global.SupportGroupLink = "https://chat.whatsapp.com/G0dZXqJAL9b1boqnra7eb4"
 global.sessionName = "session"
